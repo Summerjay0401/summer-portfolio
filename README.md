@@ -2,7 +2,9 @@
 
 ## Description
 
-My simple responsive portfolio project. Improvement will come as we progress on
+My simple responsive portfolio project. 
+
+Improvement will come as we progress on
 
 ### Git Pages
 
@@ -11,6 +13,10 @@ My simple responsive portfolio project. Improvement will come as we progress on
 ### Git Repo
 
 * [@GithubRepo](https://github.com/Summerjay0401/summer-portfolio.git)
+
+### Screenshots
+![Desktop View](./screenshots/desktop-view.png)
+![Responsive View](./screenshots/responsive-view.png)
 
 ## Acknowledgments
 
